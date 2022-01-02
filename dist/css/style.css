@@ -134,7 +134,7 @@ body {
   .faq-box .faq-content .questions {
     position: absolute;
     top: 50%;
-    transform: translateY -50%;
+    transform: translateY(-50%);
     right: 50px;
     width: 50%;
     height: 100%;
