@@ -158,11 +158,8 @@ body {
   border-top: 1px solid #4a4b5e;
   cursor: pointer;
 }
-.faq-box .faq-content .questions .box .head:hover h3 {
+.faq-box .faq-content .questions .box .head:hover h3, .faq-box .faq-content .questions .box .head.active h3 {
   color: #f47c57;
-}
-.faq-box .faq-content .questions .box .head.active {
-  color: #1d1e35;
   font-weight: bold;
 }
 .faq-box .faq-content .questions .box .head h3 {
